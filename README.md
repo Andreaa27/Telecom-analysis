@@ -32,7 +32,7 @@ El análisis integra y consolida información proveniente de tres fuentes de dat
 
 Haz clic en el siguiente botón para ejecutar el entorno interactivo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreaa27/Telecom-analysis/blob/main/Telecom_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreaa27/Telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel_(2).ipynb)
 
 *Nota: Si guardaste tu notebook desde Colab con un nombre distinto, verifica si el archivo utiliza guiones medios (`Telecom-analysis.ipynb`) o guiones bajos (`Telecom_analysis.ipynb`) al final del enlace del botón.*
 
