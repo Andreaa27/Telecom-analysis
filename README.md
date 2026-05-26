@@ -34,16 +34,8 @@ Haz clic en el siguiente botón para ejecutar el entorno interactivo:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreaa27/Telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel_(2).ipynb)
 
-*Nota: Si guardaste tu notebook desde Colab con un nombre distinto, verifica si el archivo utiliza guiones medios (`Telecom-analysis.ipynb`) o guiones bajos (`Telecom_analysis.ipynb`) al final del enlace del botón.*
 
 O de forma alternativa:
 1. Abre el archivo `.ipynb` directamente desde este repositorio de GitHub.
 2. Haz clic en el botón superior **Open in Colab** que la interfaz de GitHub renderiza automáticamente.
-
-## 📘 Cómo reproducir el análisis (Guía de reproducción)
-
-1. Abre el archivo del notebook siguiendo cualquiera de los métodos descritos en la sección anterior.
-2. Asegúrate de crear una carpeta llamada `datasets` en el panel lateral de archivos de Google Colab.
-3. Sube los archivos fuente `plans.csv`, `users_latam.csv` y `usage.csv` dentro de la carpeta creada.
-4. Ejecuta las celdas en estricto orden secuencial (`Shift + Enter`) para asegurar la correcta construcción del pipeline de limpieza y el renderizado de las gráficas de segmentación.
 
